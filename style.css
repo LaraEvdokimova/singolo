@@ -344,31 +344,31 @@ h4 {
   overflow: hidden;
 }
 
-.about-us__workers {
+.about-us__actors {
   display: flex;
   justify-content: space-between;
   margin: 43px 10px 28px;
 }
 
-.about-us__worker {
+.about-us__actor {
   width: 300px;
   overflow: hidden;
 }
 
-.worker__photo {
+.actor__photo {
   width: 300px;
   height: 300px;
   overflow: hidden;
 }
 
-.worker__name {
+.actor__name {
   padding: 18px 0 10px;
   letter-spacing: -0.1px;
   white-space: nowrap;
   overflow: hidden;
 }
 
-.worker__description {
+.actor__description {
   font-size: 12px;
   font-family: "Lato", sans-serif;
   text-align: justify;
@@ -376,12 +376,12 @@ h4 {
   overflow: hidden;
 }
 
-.worker__social {
+.actor__social {
   margin-top: 22px;
   display: flex;
 }
 
-.worker__social .social__icon {
+.actor__social .social__icon {
   margin: 0 8px 0 0;  
 }
 
