@@ -283,7 +283,7 @@ h4 {
   border-color: #ffffff;
 }
 
-.portfolio {
+.gallery {
   display: flex;
   justify-content: space-between;
   flex-wrap: wrap;
@@ -291,7 +291,7 @@ h4 {
   overflow: hidden;
 }
 
-.img {
+.images {
   width: 220px;
   height: 187px;
   margin: 10px;
@@ -302,7 +302,7 @@ h4 {
   background-color: #000;
 }
 
-.img img {
+.images img {
   -webkit-transition: all 0.5s ease-in-out;
   -o-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
