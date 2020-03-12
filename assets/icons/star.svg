@@ -29,7 +29,7 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>singolo/google.svg at master · doher/singolo</title>
+  <title>singolo/star.svg at master · doher/singolo</title>
     <meta name="description" content="singolo. Contribute to doher/singolo development by creating an account on GitHub.">
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
@@ -39,10 +39,10 @@
     <meta property="og:image" content="https://avatars2.githubusercontent.com/u/10358460?s=400&amp;v=4" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="doher/singolo" /><meta property="og:url" content="https://github.com/doher/singolo" /><meta property="og:description" content="singolo. Contribute to doher/singolo development by creating an account on GitHub." />
 
   <link rel="assets" href="https://github.githubassets.com/">
-  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDg5Mjk4MzAzOjk2YTY2MjJlNTQ4NDY2OTU2ZmMxOGUyYTk2ZmJkM2JjMzNiZmRkNWQ2NGY0MmVmMzVmYjVkZGVjNDY0NGNlOTQ=--3572883a26d76aa792f7357e23367e3d37c9ba6c">
+  <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6NDg5Mjk4MzAzOmNiOGU2OWVkOTdkZjExMmM1MTVjYThlZTIzZjk4NDIxYzlhOWMyZDFmNTkyN2RlN2RjNDhiMThiZjNiMGZmNWU=--ac3fe0e90fe8f2a07f60b563e382e5bed5950776">
   <link rel="sudo-modal" href="/sessions/sudo_modal">
 
-  <meta name="request-id" content="EFD2:42796:429E64:5F78C5:5E69CF8D" data-pjax-transient="true" /><meta name="html-safe-nonce" content="4ff620719cfb68d253c047671619a57a45478d21" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kb2hlci9zaW5nb2xvL3RyZWUvbWFzdGVyL2Fzc2V0cy9pbWFnZXMvaWNvbnMiLCJyZXF1ZXN0X2lkIjoiRUZEMjo0Mjc5Njo0MjlFNjQ6NUY3OEM1OjVFNjlDRjhEIiwidmlzaXRvcl9pZCI6IjY0MzQ3MTg4MDE4NDk5Mjc2NDIiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="0aa1d4036d6fcca3142452b1df7133a123a07361cb34b4b954b613e439b1ca37" data-pjax-transient="true" />
+  <meta name="request-id" content="EFD2:42796:42A72A:5F8625:5E69CFBF" data-pjax-transient="true" /><meta name="html-safe-nonce" content="4ff620719cfb68d253c047671619a57a45478d21" data-pjax-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9kb2hlci9zaW5nb2xvL3RyZWUvbWFzdGVyL2Fzc2V0cy9pbWFnZXMvaWNvbnMiLCJyZXF1ZXN0X2lkIjoiRUZEMjo0Mjc5Njo0MkE3MkE6NUY4NjI1OjVFNjlDRkJGIiwidmlzaXRvcl9pZCI6IjY0MzQ3MTg4MDE4NDk5Mjc2NDIiLCJyZWdpb25fZWRnZSI6ImFtcyIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true" /><meta name="visitor-hmac" content="aa99ffd560e959df90a2083caa6386733c22376189ef5cee73d0ff4a6d8bbc77" data-pjax-transient="true" />
 
 
 
@@ -76,7 +76,7 @@
 
       <meta name="expected-hostname" content="github.com">
 
-      <meta name="js-proxy-site-detection-payload" content="OTdjMDhhMzY2NWY2ODkwMWI2MjVmNGZmMzVmODY0ZTE3Njg2MzU3NzYyZDlkN2U5MGRjODRhNmU1NDYxMDMxOHx7InJlbW90ZV9hZGRyZXNzIjoiMTk0LjE4Ni4yMDcuMTQwIiwicmVxdWVzdF9pZCI6IkVGRDI6NDI3OTY6NDI5RTY0OjVGNzhDNTo1RTY5Q0Y4RCIsInRpbWVzdGFtcCI6MTU4Mzk5MjcyMiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
+      <meta name="js-proxy-site-detection-payload" content="ZWZkYjhlZWEwYjU0NGE1Mzg3MDI3M2NlZGU0ZWVhNDJkNjhmMWExZDI5YTA4ZGRmNWJjNmE5ZjkwZWY4ZWQ0OXx7InJlbW90ZV9hZGRyZXNzIjoiMTk0LjE4Ni4yMDcuMTQwIiwicmVxdWVzdF9pZCI6IkVGRDI6NDI3OTY6NDJBNzJBOjVGODYyNTo1RTY5Q0ZCRiIsInRpbWVzdGFtcCI6MTU4Mzk5Mjc3MiwiaG9zdCI6ImdpdGh1Yi5jb20ifQ==">
 
     <meta name="enabled-features" content="MARKETPLACE_FEATURED_BLOG_POSTS,MARKETPLACE_INVOICED_BILLING,MARKETPLACE_SOCIAL_PROOF_CUSTOMERS,MARKETPLACE_TRENDING_SOCIAL_PROOF,MARKETPLACE_RECOMMENDATIONS,MARKETPLACE_PENDING_INSTALLATIONS,RELATED_ISSUES,GHE_CLOUD_TRIAL,PAGE_STALE_CHECK">
 
@@ -90,7 +90,7 @@
   <meta name="octolytics-dimension-user_id" content="10358460" /><meta name="octolytics-dimension-user_login" content="doher" /><meta name="octolytics-dimension-repository_id" content="242072950" /><meta name="octolytics-dimension-repository_nwo" content="doher/singolo" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="242072950" /><meta name="octolytics-dimension-repository_network_root_nwo" content="doher/singolo" /><meta name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" content="false" />
 
 
-    <link rel="canonical" href="https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -163,7 +163,7 @@
           spellcheck="false"
           autocomplete="off"
           >
-          <input type="hidden" value="vEWucbx9sHdC8rcXv69yKr6SNZLcnUGod3vT/d+6IbUIJ7a2/0A2Yc///K8/oHepQhTSyMiXNNZ1jV28MQUZxA==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+          <input type="hidden" value="Tc36Qvc7qOVh3xz+r0NfdNUF85uws2biq6l1+EfhXef5r+KFtAYu8+zSV0YvTFr3KYMUwaS5E5ypX/u5qV5llg==" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
           <input type="hidden" class="js-site-search-type-field" name="type" >
             <img src="https://github.githubassets.com/images/search-key-slash.svg" alt="" class="mr-2 header-search-key-slash">
 
@@ -314,7 +314,7 @@
       <img class="avatar" height="20" width="20" alt="@LaraEvdokimova" src="https://avatars2.githubusercontent.com/u/57674806?s=60&amp;v=4" />
       LaraEvdokimova
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="jjYBV0Q8/UINxTaGn8CAs7P748P0SjUZIoANCdYszk8YSSrm2fBBp+17YTUlCQJ5iowgIHlMioC8tecItKqQbw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="B4maRU+asPW5UQtv87LIv0WLVWR2Mq/7LD/PYQwxRGCR9rH00lYMEFnvXNxJe0p1fPyWh/s0EGKyCiVgbrcaQA==" />
       <button type="submit" class="Header-link mr-0 mr-lg-3 py-2 py-lg-0 border-top border-lg-top-0 border-white-fade-15 d-lg-none btn-link d-block width-full text-left" data-ga-click="Header, sign out, icon:logout" style="padding-left: 2px;">
         <svg class="octicon octicon-sign-out v-align-middle" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M12 9V7H8V5h4V3l4 3-4 3zm-2 3H6V3L2 1h8v3h1V1c0-.55-.45-1-1-1H1C.45 0 0 .45 0 1v11.38c0 .39.22.73.55.91L6 16.01V13h4c.55 0 1-.45 1-1V8h-1v4z"/></svg>
         Sign out
@@ -408,7 +408,7 @@
   " data-team-hovercards-enabled>
   <details class="js-user-status-details details-reset details-overlay details-overlay-dark">
     <summary class="btn-link btn-block link-gray no-underline js-toggle-user-status-edit toggle-user-status-edit "
-      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:10358460,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:57674806,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;}}" data-hydro-click-hmac="b2cac591dc041ab605c739194b574bce5ee25825f944d403ed55a300fa0acd19">
+      role="menuitem" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:10358460,&quot;target&quot;:&quot;EDIT_USER_STATUS&quot;,&quot;user_id&quot;:57674806,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;}}" data-hydro-click-hmac="92966e1d43d15ac1a98b013e72faadba3bb5d9b93c762731c11ff394e3866215">
       <div class="d-flex">
         <div class="f6 lh-condensed user-status-header
           d-inline-block v-align-middle
@@ -435,7 +435,7 @@
       </div>
     </summary>
     <details-dialog class="details-dialog rounded-1 anim-fade-in fast Box Box--overlay" role="dialog" tabindex="-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="+Z96DUsIbi0CsaCHEnFPFlMqWxJLUjD50UWdjd/uVQsnLa6qSNil/PTPLohjQgMgkqlhMOS1s+c1UyJgJc9NHg==" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="position-relative flex-auto js-user-status-form" action="/users/status?compact=1&amp;link_mentions=0&amp;truncate=1" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" /><input type="hidden" name="authenticity_token" value="qnEw7EhdoLKntTI3qhWgR1flu7AQOHHzfPMnyJ93PK90w+RLS41rY1HLvDjbJuxxlmaBkr/f8u2Y5ZglZVYkug==" />
         <div class="Box-header bg-gray border-bottom p-3">
           <button class="Box-btn-octicon js-toggle-user-status-edit btn-octicon float-right" type="reset" aria-label="Close dialog" data-close-dialog>
             <svg class="octicon octicon-x" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
@@ -553,17 +553,17 @@
       </li>
       <li class="dropdown-divider" role="none"></li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-03-12T09:28:42+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 30 minutes" value="2020-03-12T09:29:32+03:00">
             in 30 minutes
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-03-12T09:58:42+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 1 hour" value="2020-03-12T09:59:32+03:00">
             in 1 hour
           </button>
         </li>
         <li>
-          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-03-12T12:58:42+03:00">
+          <button type="button" class="btn-link dropdown-item ws-normal js-user-status-expire-button" title="in 4 hours" value="2020-03-12T12:59:32+03:00">
             in 4 hours
           </button>
         </li>
@@ -621,10 +621,10 @@
     class="dropdown-item btn-link"
     role="menuitem"
     data-feature-preview-trigger-url="/users/LaraEvdokimova/feature_previews"
-    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}"
-    data-feature-preview-close-hmac="f8675d5d170617373eee84b44234c2c4a2c3f85ebba4014e7295fb096cbfa5d5"
-    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}"
-    data-hydro-click-hmac="c84fe2452e4d9a979a7073ce0cd6d1269edee1c6a16fb037c983f16d24abf5ce"
+    data-feature-preview-close-details="{&quot;event_type&quot;:&quot;feature_preview.clicks.close_modal&quot;,&quot;payload&quot;:{&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}"
+    data-feature-preview-close-hmac="1f30a053420603b400feeb245fdaea7a10648999818c98f1cc24b5eb6a943591"
+    data-hydro-click="{&quot;event_type&quot;:&quot;feature_preview.clicks.open_modal&quot;,&quot;payload&quot;:{&quot;link_location&quot;:&quot;user_dropdown&quot;,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}"
+    data-hydro-click-hmac="ddb66bc1016f4881fd5eb0f1e3978e3a216eb1cd2932f334ecf7997b693565e9"
   >
     Feature preview
   </button>
@@ -633,12 +633,12 @@
 
     <a role="menuitem" class="dropdown-item" href="https://help.github.com" data-ga-click="Header, go to help, text:help">Help</a>
     <a role="menuitem" class="dropdown-item" href="/settings/profile" data-ga-click="Header, go to settings, icon:settings">Settings</a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="LhjJl6BxyHLDOV/mx1koZuSA0g4iHE5NIpBW+n4fsz+4Z+ImPb10lyOHCFV9kKqs3fcR7a8a8dS8pbz7HJntHw==" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="logout-form" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="N+8sOkZZL8HbJQq2QE3wl8tcAR6HCvGIVUz7vLLN6MyhkAeL25WTJDubXQX6hHJd8ivC/QoMThHLeRG90Eu27A==" />
       
       <button type="submit" class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout" role="menuitem">
         Sign out
       </button>
-      <input type="text" name="required_field_4993" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1583992722307" class="form-control" /><input type="hidden" name="timestamp_secret" value="6f7d35cc790667f80684cfbb6ac2d1183517b69d96fba54df75286adc1222b80" class="form-control" />
+      <input type="text" name="required_field_dd5f" hidden="hidden" class="form-control" /><input type="hidden" name="timestamp" value="1583992772884" class="form-control" /><input type="hidden" name="timestamp_secret" value="67c2cfb924ac14e6d1660d33be090c11358a4ad20f85320d97741993fe10e601" class="form-control" />
 </form>  </details-menu>
 </details>
 
@@ -680,10 +680,10 @@
       <p class="shelf-lead">
           Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
       </p>
-      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="4efa0a703bb3b4d61f95b7818c0aa8b591a9db54c0c747c95260e48b1f1c1b37" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
+      <a class="btn btn-primary shelf-cta" target="_blank" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;READ_GUIDE&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="76be3aa42cf8d7f79c95df03104b9ea579b5e9bf181f59d0dd66e2a8aa4e0ab4" href="https://guides.github.com/activities/hello-world/">Read the guide</a>
     </div>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="mi1pwQoP8PAPI4A51TCD6LRCZCM/lY5R7d/Fe5tlALTkI1LtE0eiV0eFgsma6ig+G3SMQ4+WAIiLtPLPvCbQww==" />
-      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="cb34ee70c6a9293fbaa25d22864d6597e8397a9df6b38abb5b641845fdb8f4bb">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="shelf-dismiss js-notice-dismiss" action="/dashboard/dismiss_bootcamp" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="delete" /><input type="hidden" name="authenticity_token" value="mJLwbrJ5KsZQZh+Rlptx/YxaayaIAy+sFWz3K9eh7VjmnMtCqzF4YRjAHWHZQdorI2yDRjgAoXVzB8Cf8OI9Lw==" />
+      <button name="button" type="submit" class="mr-1 close-button tooltipped tooltipped-w" aria-label="Hide this notice forever" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;DISMISS_BANNER&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="897fedb6b67b7693be8224f66e0f9f5b5a0ed200ccfc81a6527f38b123f1f87c">
         <svg aria-label="Hide this notice forever" class="octicon octicon-x v-align-text-top" viewBox="0 0 12 16" version="1.1" width="12" height="16" role="img"><path fill-rule="evenodd" d="M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z"/></svg>
 </button></form>  </div>
 </div>
@@ -724,10 +724,10 @@
 
   <li>
     
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="eaYoCqyeJVARnC1qgWup1kVTsiq/BD9Mz7rGbEOb/INFSCrn47Lr2j/Gt3xa2DV5/6WnkZcSyOyftv3poK5q9Q==" />      <input type="hidden" name="repository_id" value="242072950">
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-remote="true" class="clearfix js-social-form js-social-container" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="PfFq+EJHkxKE16YYB2qR1l8RD45gdbTzy6j0h3kvO8cBH2gVDWtdmKqNPA7c2Q155ecaNUhjQ1ObpM8CmhqtsQ==" />      <input type="hidden" name="repository_id" value="242072950">
 
       <details class="details-reset details-overlay select-menu float-left">
-        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="9dc7fe57f161730d49e0c6a1a360ad51f11b8270176255721af989675910d336" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
+        <summary class="select-menu-button float-left btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="3a11953ce9965af0d7b4fadbf8d1dcb4430bdc22c614894577f2e8b5945c5e98" data-ga-click="Repository, click Watch settings, action:blob#show">          <span data-menu-button>
               <svg class="octicon octicon-eye v-align-text-bottom" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8.06 2C3 2 0 8 0 8s3 6 8.06 6C13 14 16 8 16 8s-3-6-7.94-6zM8 12c-2.2 0-4-1.78-4-4 0-2.2 1.8-4 4-4 2.22 0 4 1.8 4 4 0 2.22-1.78 4-4 4zm2-4c0 1.11-.89 2-2 2-1.11 0-2-.89-2-2 0-1.11.89-2 2-2 1.11 0 2 .89 2 2z"/></svg>
               Watch
           </span>
@@ -798,9 +798,9 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <form class="starred js-social-form" action="/doher/singolo/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="501tv9uETtcsvs+I3w6v25cpcSqH0VuWYZ3V3kYjQRf21WUiQ3/hYIgrqFdd6cyWqNbbt7fCdMrkdvUQglV9QA==" />
+    <form class="starred js-social-form" action="/doher/singolo/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="z84SHdDdJKJL8WUL+90ujP5aNMRjQ+iYX253ZozYCtneVhqASCaLFe9kAtR5Ok3BwaWeWVNQx8TahVeoSK42jg==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar doher/singolo" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="09c87d9ba84c7920e8f03c32d74fc18b414a5b6f1698c7f962b596193a5008de" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Unstar doher/singolo" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="6ce873ab22fffde2f7f9855acc5e01da57461103af8ffd963081c064920f5066" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Unstar
 </button>        <a class="social-count js-social-count" href="/doher/singolo/stargazers"
@@ -808,9 +808,9 @@
            0
         </a>
 </form>
-    <form class="unstarred js-social-form" action="/doher/singolo/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cMHWavL9XflA7qGNYYHVKO4MFDXgGuEbmvRQPd0gqH/mqYbHWHMLGsy/Q1yS9BFy1vA2OTreGdTTmMrv5AM7jw==" />
+    <form class="unstarred js-social-form" action="/doher/singolo/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="891Iwz13RHSlvXsUIUks988slzAQnpPOa89uMyj/XeNltRhul/kSlynsmcXSPOit99C1PMpaawEio/ThEdzOEw==" />
       <input type="hidden" name="context" value="repository"></input>
-      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star doher/singolo" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="c4a2e5d422f795346557933fe7fa589e805197ebeb5348d392fb579e27e7ecd4" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
+      <button type="submit" class="btn btn-sm btn-with-count js-toggler-target" aria-label="Unstar this repository" title="Star doher/singolo" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="834319da2ac19842352777dddf06f9d1d2644200a2d5e8c67c7f73cfc18213bf" data-ga-click="Repository, click star button, action:blob#show; text:Star">        <svg height="16" class="octicon octicon-star v-align-text-bottom" vertical_align="text_bottom" viewBox="0 0 14 16" version="1.1" width="14" aria-hidden="true"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74L14 6z"/></svg>
 
         Star
 </button>        <a class="social-count js-social-count" href="/doher/singolo/stargazers"
@@ -822,8 +822,8 @@
   </li>
 
   <li>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/doher/singolo/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="u+/vclEUcKpogCjX6/UHoVNirgnv9Gky/yp0M2aI+E9NP1lcmiw0MOrgpxixLnE6EOZmZdt3LHjD3tHj8ekanQ==" />
-            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="fca4621873307ee8f028517768046638c4225a475e4e1faaba8d9063341832a4" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of doher/singolo to your account" aria-label="Fork your own copy of doher/singolo to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="btn-with-count" action="/doher/singolo/fork" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="/KV4OT7mEUfYWCkwP7qa5Pngoykyw5m5cp+QRZsfbJMKdc4X9d5V3Vo4pv9lYex/umRrRQZA3PNOazWVDH6OQQ==" />
+            <button class="btn btn-sm btn-with-count" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:242072950,&quot;originating_url&quot;:&quot;https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg&quot;,&quot;user_id&quot;:57674806}}" data-hydro-click-hmac="5f0fe430ac5d7c89dc9e7b6239902f3d3f0f38e0c41f13c099c25ac8b278e15f" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" type="submit" title="Fork your own copy of doher/singolo to your account" aria-label="Fork your own copy of doher/singolo to your account">              <svg class="octicon octicon-repo-forked v-align-text-bottom" viewBox="0 0 10 16" version="1.1" width="10" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 00-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 002 1a1.993 1.993 0 00-1 3.72V6.5l3 3v1.78A1.993 1.993 0 005 15a1.993 1.993 0 001-3.72V9.5l3-3V4.72A1.993 1.993 0 008 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
               Fork
 </button></form>
     <a href="/doher/singolo/network/members" class="social-count"
@@ -970,9 +970,9 @@
   
 
 
-    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/doher/singolo/blob/5cad8f118835229a49e59346147ee066d6e1ac53/assets/images/icons/google.svg">Permalink</a>
+    <a class="d-none js-permalink-shortcut" data-hotkey="y" href="/doher/singolo/blob/5cad8f118835229a49e59346147ee066d6e1ac53/assets/images/icons/star.svg">Permalink</a>
 
-    <!-- blob contrib key: blob_contributors:v22:04edbb954a3dc37985b8803381f0e018 -->
+    <!-- blob contrib key: blob_contributors:v22:524665fd6f70e4cbf6f4b650637799dd -->
     
 
     <div class="d-flex flex-items-start flex-shrink-0 flex-column flex-md-row pb-3">
@@ -987,7 +987,7 @@
     <span class="dropdown-caret"></span>
   </summary>
 
-  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/doher/singolo/refs/master/assets/images/icons/google.svg?source_action=show&amp;source_controller=blob" preload>
+  <details-menu class="SelectMenu SelectMenu--hasFilter" src="/doher/singolo/refs/master/assets/images/icons/star.svg?source_action=show&amp;source_controller=blob" preload>
     <div class="SelectMenu-modal">
       <include-fragment class="SelectMenu-loading" aria-label="Menu is loading">
         <svg class="octicon octicon-octoface anim-pulse" height="32" viewBox="0 0 16 16" version="1.1" width="32" aria-hidden="true"><path fill-rule="evenodd" d="M14.7 5.34c.13-.32.55-1.59-.13-3.31 0 0-1.05-.33-3.44 1.3-1-.28-2.07-.32-3.13-.32s-2.13.04-3.13.32c-2.39-1.64-3.44-1.3-3.44-1.3-.68 1.72-.26 2.99-.13 3.31C.49 6.21 0 7.33 0 8.69 0 13.84 3.33 15 7.98 15S16 13.84 16 8.69c0-1.36-.49-2.48-1.3-3.35zM8 14.02c-3.3 0-5.98-.15-5.98-3.35 0-.76.38-1.48 1.02-2.07 1.07-.98 2.9-.46 4.96-.46 2.07 0 3.88-.52 4.96.46.65.59 1.02 1.3 1.02 2.07 0 3.19-2.68 3.35-5.98 3.35zM5.49 9.01c-.66 0-1.2.8-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.54-1.78-1.2-1.78zm5.02 0c-.66 0-1.2.79-1.2 1.78s.54 1.79 1.2 1.79c.66 0 1.2-.8 1.2-1.79s-.53-1.78-1.2-1.78z"/></svg>
@@ -1003,13 +1003,13 @@
                 data-hotkey="t">
             Find file
           </a>
-          <clipboard-copy value="assets/images/icons/google.svg" class="btn btn-sm BtnGroup-item">
+          <clipboard-copy value="assets/images/icons/star.svg" class="btn btn-sm BtnGroup-item">
             Copy path
           </clipboard-copy>
         </div>
       </span>
       <h2 id="blob-path" class="breadcrumb flex-auto min-width-0 text-normal flex-md-self-center ml-md-2 mr-md-3 my-2 my-md-0">
-        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo"><span>singolo</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets/images"><span>images</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets/images/icons"><span>icons</span></a></span><span class="separator">/</span><strong class="final-path">google.svg</strong>
+        <span class="js-repo-root text-bold"><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo"><span>singolo</span></a></span></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets"><span>assets</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets/images"><span>images</span></a></span><span class="separator">/</span><span class="js-path-segment"><a data-pjax="true" href="/doher/singolo/tree/master/assets/images/icons"><span>icons</span></a></span><span class="separator">/</span><strong class="final-path">star.svg</strong>
       </h2>
 
       <div class="BtnGroup flex-shrink-0 d-none d-md-inline-block">
@@ -1019,7 +1019,7 @@
               data-hotkey="t">
           Find file
         </a>
-        <clipboard-copy value="assets/images/icons/google.svg" class="btn btn-sm BtnGroup-item">
+        <clipboard-copy value="assets/images/icons/star.svg" class="btn btn-sm BtnGroup-item">
           Copy path
         </clipboard-copy>
       </div>
@@ -1029,7 +1029,7 @@
 
 
 
-    <include-fragment src="/doher/singolo/contributors/master/assets/images/icons/google.svg" class="Box Box--condensed commit-loader">
+    <include-fragment src="/doher/singolo/contributors/master/assets/images/icons/star.svg" class="Box Box--condensed commit-loader">
       <div class="Box-body bg-blue-light f6">
         Fetching contributors&hellip;
       </div>
@@ -1050,46 +1050,46 @@
 <div class="Box-header py-2 d-flex flex-column flex-shrink-0 flex-md-row flex-md-items-center">
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
 
-      9 lines (9 sloc)
+      11 lines (11 sloc)
       <span class="file-info-divider"></span>
-    2.24 KB
+    1.06 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between">
       <div class="BtnGroup">
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped tooltipped-n source "
-          href="/doher/singolo/blob/master/assets/images/icons/google.svg?short_path=004e6ac" aria-label="Display the source blob">
+          href="/doher/singolo/blob/master/assets/images/icons/star.svg?short_path=e0757e9" aria-label="Display the source blob">
           <svg class="octicon octicon-code" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
         </a>
         <a class="btn btn-sm BtnGroup-item tooltipped tooltipped-n rendered selected"
-          href="/doher/singolo/blob/master/assets/images/icons/google.svg" aria-label="Display the rendered blob">
+          href="/doher/singolo/blob/master/assets/images/icons/star.svg" aria-label="Display the rendered blob">
           <svg class="octicon octicon-file" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M6 5H2V4h4v1zM2 8h7V7H2v1zm0 2h7V9H2v1zm0 2h7v-1H2v1zm10-7.5V14c0 .55-.45 1-1 1H1c-.55 0-1-.45-1-1V2c0-.55.45-1 1-1h7.5L12 4.5zM11 5L8 2H1v12h10V5z"/></svg>
         </a>
       </div>
 
     <div class="BtnGroup">
-      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/doher/singolo/raw/master/assets/images/icons/google.svg">Raw</a>
-        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/doher/singolo/blame/master/assets/images/icons/google.svg">Blame</a>
-      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/doher/singolo/commits/master/assets/images/icons/google.svg">History</a>
+      <a id="raw-url" class="btn btn-sm BtnGroup-item" href="/doher/singolo/raw/master/assets/images/icons/star.svg">Raw</a>
+        <a class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b" href="/doher/singolo/blame/master/assets/images/icons/star.svg">Blame</a>
+      <a rel="nofollow" class="btn btn-sm BtnGroup-item" href="/doher/singolo/commits/master/assets/images/icons/star.svg">History</a>
     </div>
 
 
     <div>
           <a class="btn-octicon tooltipped tooltipped-nw js-remove-unless-platform"
              data-platforms="windows,mac"
-             href="x-github-client://openRepo/https://github.com/doher/singolo?branch=master&amp;filepath=assets%2Fimages%2Ficons%2Fgoogle.svg"
+             href="x-github-client://openRepo/https://github.com/doher/singolo?branch=master&amp;filepath=assets%2Fimages%2Ficons%2Fstar.svg"
              aria-label="Open this file in GitHub Desktop"
              data-ga-click="Repository, open with desktop">
               <svg class="octicon octicon-device-desktop" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"/></svg>
           </a>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/doher/singolo/edit/master/assets/images/icons/google.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="o+t1W/ouF6hNvu7D+oF8tGEaRDNUbrP5Sap4Trr1sbQnYR39DGUZOv6wuQRT0TXeWeMmWj8rsiG5F/9gk6khfA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form js-update-url-with-hash" action="/doher/singolo/edit/master/assets/images/icons/star.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="kcD2QLQELnS87RwesUbUsvvoueHTurCanP2z2ldW2mR+UXvJRVgs0q34tgYXj+BSUlfoF0E0RZZqlHo4JJgnsQ==" />
             <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
               <svg class="octicon octicon-pencil" viewBox="0 0 14 16" version="1.1" width="14" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 011.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
             </button>
 </form>
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/doher/singolo/delete/master/assets/images/icons/google.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="BODRcv09vcNyRaUh1xUR3Agmsxz+BcQE9OKKxIa5USfGmnJNTubf1Q48+FsS6OWJghzZDK0uHDVwfZ8toLy0uA==" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" action="/doher/singolo/delete/master/assets/images/icons/star.svg" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="76LVc7w6vRn1aydgZywqcQ1qFzbTuUH3taaFuiV9cgKTkazRL+pjTlLQDjntsBmMX/VpmVZarJ+rx5mI3338cg==" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this project and delete the file" data-disable-with>
               <svg class="octicon octicon-trashcan" viewBox="0 0 12 16" version="1.1" width="12" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
@@ -1107,14 +1107,14 @@
       
   <div class="render-wrapper ">
     <div class="render-container is-render-pending js-render-target  "
-      data-identity="d900dff6-430d-4dd5-824d-0385ba6ec649"
+      data-identity="af509180-a1ca-4271-86b8-4a5988b4aa1e"
       data-host="https://render.githubusercontent.com"
       data-type="svg">
       <img class="octospinner mx-auto" alt="" src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" width="64" height="64" />
-      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/doher/singolo/blob/master/assets/images/icons/google.svg">Reload?</a></div>
+      <div class="render-viewer-error">Sorry, something went wrong. <a href="https://github.com/doher/singolo/blob/master/assets/images/icons/star.svg">Reload?</a></div>
       <div class="render-viewer-fatal">Sorry, we cannot display this file.</div>
       <div class="render-viewer-invalid">Sorry, this file is invalid so it cannot be displayed.</div>
-      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=5cad8f118835229a49e59346147ee066d6e1ac53&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f646f6865722f73696e676f6c6f2f356361643866313138383335323239613439653539333436313437656530363664366531616335332f6173736574732f696d616765732f69636f6e732f676f6f676c652e737667&amp;nwo=doher%2Fsingolo&amp;path=assets%2Fimages%2Ficons%2Fgoogle.svg&amp;repository_id=242072950&amp;repository_type=Repository#d900dff6-430d-4dd5-824d-0385ba6ec649" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
+      <iframe class="render-viewer " src="https://render.githubusercontent.com/view/svg?commit=5cad8f118835229a49e59346147ee066d6e1ac53&amp;enc_url=68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f646f6865722f73696e676f6c6f2f356361643866313138383335323239613439653539333436313437656530363664366531616335332f6173736574732f696d616765732f69636f6e732f737461722e737667&amp;nwo=doher%2Fsingolo&amp;path=assets%2Fimages%2Ficons%2Fstar.svg&amp;repository_id=242072950&amp;repository_type=Repository#af509180-a1ca-4271-86b8-4a5988b4aa1e" sandbox="allow-scripts allow-same-origin allow-top-navigation" title="File display">
           Viewer requires iframe.
       </iframe>
     </div>
