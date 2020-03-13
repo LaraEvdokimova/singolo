@@ -130,18 +130,18 @@ h4 {
 
 .arrow-left {
   position: absolute;
-  top: 281px;
-  left: 21px;
+  top: 1281px;
+  left: 121px;
 }
 
 .arrow-right {
   position: absolute;
-  top: 280px;
-  right: 20px;
+  top: 1280px;
+  right: 120px;
 }
 
 .slider__arrows img {
-  opacity: 0.7;
+  opacity: 0.5;
 }
 
 
@@ -263,12 +263,6 @@ h4 {
   border-style: solid;
   border-width: 1px;
   border-radius: 5px;
-}
-
-.tag:hover {
-  color: #ffffff;
-  border-color: #ffffff;
-  cursor: pointer;
 }
 
 .tag_selected {
@@ -468,12 +462,6 @@ h4 {
   transition: background 0.3s ease-in-out;
 }
 
-.quote-form__submit:hover {
-  cursor: pointer;
-  background-color: #2d303a;
-  color: #f0d8d9;
-}
-
 .info {
   width: 310px;
 }
@@ -573,9 +561,4 @@ h4 {
   -webkit-transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
   line-height: 100%;
-}
-
-.social__icon:hover {
-  filter: hue-rotate(100deg);
-  -webkit-filter: hue-rotate(100deg);
 }
