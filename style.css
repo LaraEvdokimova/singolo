@@ -17,6 +17,29 @@ button {
   outline: none;
 }
 
+.button-left,
+.button-right {
+  position: relative;
+  background-color: transparent;
+  border: 0;
+}
+
+.button-left {
+  bottom: 1px;
+  right: 53px;
+}
+
+.button-right {
+  bottom: 1px;
+  left: 56px;
+}
+
+.button-left:hover,
+.button-right:hover {
+  opacity: 50%;
+  cursor: pointer;
+}
+
 html {
   font-size: 10px;
 }
@@ -131,15 +154,12 @@ h4 {
   z-index: 999;
 }
 
-.arrow-left {
-  bottom: 1px;
-  right: 53px;
-}
 
-.arrow-right {
-  bottom: 1px;
-  left: 56px;
-}
+
+
+
+
+
 
 .slider__arrows img {
   opacity: 0.7;
