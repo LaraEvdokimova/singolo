@@ -111,9 +111,6 @@ h4 {
   color: #494e62;
 }
 
-.navigation li a:hover {
-  color: #f06c64;
-}
 
 /* slider */
 
@@ -147,10 +144,6 @@ h4 {
   opacity: 0.7;
 }
 
-.slider__arrows img:hover {
-  cursor: pointer;
-  opacity: 1;
-}
 
 .slider__content {
   position: relative;
