@@ -10,34 +10,12 @@
 form,
 input,
 textarea,
-button {
+button,
+arrow {
   border: 0;
   margin: 0;
   padding: 0;
   outline: none;
-}
-
-.button-left,
-.button-right {
-  position: relative;
-  background-color: transparent;
-  border: 0;
-}
-
-.button-left {
-  bottom: 1px;
-  right: 53px;
-}
-
-.button-right {
-  bottom: 1px;
-  left: 56px;
-}
-
-.button-left:hover,
-.button-right:hover {
-  opacity: 50%;
-  cursor: pointer;
 }
 
 html {
@@ -154,12 +132,28 @@ h4 {
   z-index: 999;
 }
 
+.arrow-left,
+.arrow-right {
+  position: relative;
+  background-color: transparent;
+  border: 0;
+}
 
+.arrow-left {
+  bottom: 1px;
+  right: 53px;
+}
 
+.arrow-right {
+  bottom: 1px;
+  left: 56px;
+}
 
-
-
-
+.arrow-left:hover,
+.arrow-right:hover {
+  opacity: 50%;
+  cursor: pointer;
+}
 
 .slider__arrows img {
   opacity: 0.7;
