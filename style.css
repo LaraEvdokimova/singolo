@@ -154,7 +154,7 @@ h4 {
 
 .slider__content {
   position: relative;
-  z-index: 998;
+  z-index: 100;
 }
 
 .iphone-vertical {
