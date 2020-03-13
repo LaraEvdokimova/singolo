@@ -130,13 +130,12 @@ h4 {
 
 .arrow-left {
   position: absolute;
-  top: 1281px;
+  middle: 281px;
   left: 121px;
 }
 
 .arrow-right {
-  position: absolute;
-  top: 1280px;
+  middle: 280px;
   right: 120px;
 }
 
