@@ -134,19 +134,18 @@ h4 {
 
 .arrow-left,
 .arrow-right {
-  position: relative;
   background-color: transparent;
-  border: 0;
-}
+  border: 10px;
+ }
 
 .arrow-left {
   bottom: 10px;
-  right: 10px;
+  left: 10px;
 }
 
 .arrow-right {
   bottom: 10px;
-  left: 10px;
+  right: 10px;
 }
 
 .arrow-left:hover,
