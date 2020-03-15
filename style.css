@@ -13,13 +13,13 @@ textarea,
 button,
 arrow {
   border: 0;
-  margin: 0;
-  padding: 0;
+  margin: 10px;
+  padding: 10px;
   outline: none;
 }
 
 html {
-  font-size: 10px;
+  font-size: 8px;
 }
 
 body {
@@ -50,7 +50,7 @@ h4 {
 .container {
   width: 960px;
   margin: 0 auto;
-  padding: 0 10px;
+  padding: 0 8px;
 }
 
 .layout-3-column {
@@ -96,12 +96,12 @@ h4 {
 }
 
 .navigation li a {
-  font-size: 12px;
+  font-size: 10px;
   font-family: "Lato", sans-serif;
   letter-spacing: 0.07px;
   text-transform: uppercase;
   text-decoration: none;
-  padding: 0 12px;
+  padding: 0 10px;
   color: #ffffff;
   transition: color 0.3s ease-in-out;
 }
@@ -140,13 +140,13 @@ h4 {
 }
 
 .arrow-left {
-  bottom: 1px;
-  right: 53px;
+  bottom: 10px;
+  right: 10px;
 }
 
 .arrow-right {
-  bottom: 1px;
-  left: 56px;
+  bottom: 10px;
+  left: 10px;
 }
 
 .arrow-left:hover,
@@ -171,14 +171,14 @@ h4 {
 
 .iphone-vertical {
   position: absolute;
-  top: 53px;
-  left: 82px;
+  top: 51px;
+  left: 80px;
 }
 
 .iphone-horizontal {
   position: absolute;
-  top: 174px;
-  right: 81px;
+  top: 172px;
+  right: 80px;
 }
 
 /* Section Our Services */
